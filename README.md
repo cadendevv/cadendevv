@@ -1,2 +1,2 @@
 - ❤️ hi, im caden. 
-- djs & web developer.
+- ♂️ djs & web developer.
