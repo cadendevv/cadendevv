@@ -1,1 +1,2 @@
-hi, im caden. 
+- hi, im caden. 
+djs & web developer.
