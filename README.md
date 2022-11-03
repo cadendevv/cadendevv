@@ -1,2 +1,1 @@
-- Hello, im caden. 
-- thats about it
+hi, im caden. 
